@@ -1,6 +1,6 @@
 # ML_Project22
-Movie Recommender System 
-The project was based on building a low-level assembler and simulator for the Simple-RISC ISA using high-level language.
+
+This is a movie recommender system. We are using the various ML models and trying to come up with the best possible hypothesis.
   
 ### For further information refer to the Project Description pdf.
 
@@ -19,4 +19,4 @@ The project was based on building a low-level assembler and simulator for the Si
 	3. `--no-sim`: Does not evaluate the simulator
 
 
-### Developed by Bhagesh Gaur
+### Developed by Bhagesh, Mohit, Ojus & Vaibhav
