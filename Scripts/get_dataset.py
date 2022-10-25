@@ -10,4 +10,6 @@ import opendatasets as od
 os.chdir('../Datasets/')
 dataset = 'https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset'
 od.download(dataset)
+dataset = 'https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata'
+od.download(dataset)
 os.chdir('../Scripts/')
