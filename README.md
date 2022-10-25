@@ -2,7 +2,7 @@
 
 This is a movie recommender system. We are using the various ML models and trying to come up with the best possible hypothesis.
   
-### For further information on project guidelines refer to the Project Description pdf.
+### For project guidelines, project proposal and mid-eval guidelines refer to the docs in the Document folder.
 
 * Both the assembler and the simulator read from `stdin`.
 * Both the assembler and the simulator write to `stdout`.
