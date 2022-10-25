@@ -8,4 +8,4 @@ This is a movie recommender system. We are using the various ML models and tryin
 * Run the `get_dataset.py` script from the Scripts directory.
 * You would require your `Kaggle Username` and `Kaggle API token key`.
 
-### Developed by Bhagesh, Mohit, Ojus & Vaibhav
+### Developers: Bhagesh, Mohit, Ojus & Vaibhav
