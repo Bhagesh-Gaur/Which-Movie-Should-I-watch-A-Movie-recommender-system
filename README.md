@@ -1,4 +1,4 @@
-# Which Movie Should I watch?: Movie recommender system
+# Which Movie Should I watch?: A Movie recommender system
 
 This is a movie recommender system. We are using the various ML models and trying to come up with the best possible hypothesis.
   
