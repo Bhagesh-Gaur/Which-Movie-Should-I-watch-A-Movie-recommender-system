@@ -1,4 +1,4 @@
-# Group 10 ML 2022 Project
+# Which Movie Should I watch?: Movie recommender system
 
 This is a movie recommender system. We are using the various ML models and trying to come up with the best possible hypothesis.
   
